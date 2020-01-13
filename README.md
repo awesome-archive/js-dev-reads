@@ -44,7 +44,7 @@ Here I have hand-picked web development/JavaScript books and articles I have per
 
 ### Note :exclamation:
 
-> The stack most used in my list is React, GraphQL, and JavaScript, in no particular order. This is because it is the stack I am most familiar with. If you want to see Angular or Vue, [submit a pull request](https://github.com/twhite96/web-dev-must-reads/pulls). I would ask you to keep it to JavaScript technologies.
+> The stack most used in my list is React, GraphQL, and JavaScript, in no particular order. This is because it is the stack I am most familiar with. If you want to see Angular or Vue, [submit a pull request](https://github.com/twhite96/js-dev-reads/pulls). I would ask you to keep it to JavaScript technologies.
 
 ## Books :books:
 
@@ -60,8 +60,11 @@ Books are broken down by technology/stack or concept. Feel free to add yours by 
 
 ### Design patterns in JavaScript
 - [Learning JavaScript Design Patterns: A JavaScript and jQuery Developer's Guide](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
+- [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do) - Stoyan Stefanov
 - [Node.js Design Patterns](https://www.amazon.com/Node-js-Design-Patterns-server-side-applications-ebook/dp/B01D8HIIFU) - Mario Casciaro &
 Luciano Mammino
+- [Refactoring: Improving the Design of Existing Code (2nd Edition)](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599) - Martin Fowler
+  - *The 2nd edition of this book's examples was rewritten from Java to JavaScript*
 
 ### React Native
 - [Fullstack React Native: The Complete Guide to React Native](https://www.fullstackreact.com/react-native/) - Devin Abbott, Houssein Djirdeh, Anthony Accomazzo & Sophia Shoemaker
@@ -73,17 +76,19 @@ Luciano Mammino
 *Books by Flavio require a newsletter sign up but I think it is worth it.*
 
 ### Vue
+- [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) - Erik Hanchett with Benjamin Listwon
 - [Vue.js: Up and Running](https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/) - Callum Macrae
+- [Fullstack Vue](https://www.fullstack.io/vue/) - Hassan Djirdeh, Nate Murray, Ari Lerner
 
 ### Core concepts
 - [Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming](https://eloquentjavascript.net/Eloquent_JavaScript.pdf) - Marijn Haverbeke
 - [Maintainable JavaScript](https://www.amazon.com/Maintainable-JavaScript-Writing-Readable-Code/dp/1449327680) - Nicholas Zakas
-- [You Don’t Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) - Kyle Simpson
-- [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures) - Kyle Simpson
-- [You Don't Know JS: This & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/master/this%20%26%20object%20prototypes) - Kyle Simpson
-- [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/master/types%20%26%20grammar) - Kyle Simpson
-- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance) - Kyle Simpson
-- [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond) - Kyle Simpson
+- [You Don’t Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20%26%20going) - Kyle Simpson
+- [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/scope%20%26%20closures) - Kyle Simpson
+- [You Don't Know JS: This & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20%26%20object%20prototypes) - Kyle Simpson
+- [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/types%20%26%20grammar) - Kyle Simpson
+- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/async%20%26%20performance) - Kyle Simpson
+- [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/es6%20%26%20beyond) - Kyle Simpson
 - [Principles of Object-Oriented Programming in JavaScript](https://leanpub.com/oopinjavascript) - Nicholas Zakas
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6) - Nicholas Zakas
 - [Front-end Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/) - Cody Lindley
@@ -91,6 +96,8 @@ Luciano Mammino
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Dr. Boolean
 - [Functional-Light JavaScript: Pragmatic, Balanced FP in JavaScript](https://leanpub.com/fljs) - Kyle Simpson
 - [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja) - John Resig, Bear Bibeault
+- [JavaScript Grammar](http://www.javascriptgrammar.com/) - Greg Sidelnikov
+- [Complete Guide to Modern JavaScript](https://github.com/AlbertoMontalesi/The-complete-guide-to-modern-JavaScript) - Alberto Montalesi
 
 ### Software architecture
 - [Programming JavaScript Applications: Robust Web Architecture With Node,HTML5, and Modern JS Libraries](https://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries/dp/1491950293) - Eric Elliott
@@ -101,6 +108,7 @@ Luciano Mammino
 ### Data structures and algorithms
 - [Algorithms (4th Edition)](http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/AlgorithmsChapterOne.pdf) - Robert Sedgewick & Kevin Wayne
   - *This book is included because it is a standard in understanding algorithms. Its choice of language is Java, but you can get the gist of how algorithms work in this book*.
+- [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms) - Aditya Y. Bhargava
 
 ### Miscellaneous
 - [Websocket: Lightweight Client-Server Communications](https://www.amazon.com/WebSocket-Client-Server-Communications-Andrew-Lombardi/dp/1449369278) - Andrew Lombardi
